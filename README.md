@@ -11,3 +11,10 @@ Everyone else must know the candidate.
 The candidate must not know anyone else.
 Output: If the candidate passes both checks, they are the celebrity. Otherwise, return -1.
 
+Complexity:
+Time Complexity: 
+𝑂(𝑛)O(n) to find the candidate + 
+𝑂(𝑛)O(n) to verify = 𝑂(𝑛)O(n).
+Space Complexity: 
+𝑂(1)O(1).
+
